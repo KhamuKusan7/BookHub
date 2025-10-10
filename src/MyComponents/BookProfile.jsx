@@ -1,6 +1,9 @@
 import React from "react";
 
 const BookCover = [
+  { name: "Bhagavad Gita", img: "/images/Books/BhagavadGita.webp"},
+  { name: "Ramayana", img:"/images/Books/Ramayana.jpg"},
+  { name: "Mahabharat", img:"/images/Books/Mahabharat.jpg"},
   { name: "Harry Potter and the Philosopher's Stone", img: "/images/Books/HarryPotter1.jpg" },
   { name: "Harry Potter and the Chamber of Secrets", img: "/images/Books/HarryPotter2.jpg" },
   { name: "Harry Potter and the Prisoner of Azkaban", img: "/images/Books/HarryPotter3.jpg" },
@@ -9,6 +12,13 @@ const BookCover = [
   { name: "Harry Potter and the Half-Blood Prince", img: "/images/Books/HarryPotter6.jpg" },
   { name: "Harry Potter and the Deathly Hallows: Part 1", img: "/images/Books/HarryPotter7.jpg" },
   { name: "Harry Potter and the Deathly Hallows: Part 2", img: "/images/Books/HarryPotter8.jpg" },
+  { name: "The Lord of The Rings", img: "/images/Books/TheLordOfTheRings.jpg"},
+  { name: "The Chronicles of Narnia", img: "/images/Books/ChroniclesofNarnia.jpg"},
+  { name: "एक चिहान (Ek Chihan)", img: "/images/Books/ekChihan.jpg"},
+  { name: "मुनामदन (Muna Madan)", img: "/images/Books/MunaMadan.jpg"},
+  { name: "Rich Dad Poor Dad", img: "/images/Books/RichDadPoorDad.jpg"},
+  { name: "Shireesh ko Phool", img: "/images/Books/Shireesh-ko-Phool.webp"},
+  { name: "The Great Gatsby", img: "/images/Books/GreatGatsby.jpg"}
 ];
 
 const BookProfile = () => {
