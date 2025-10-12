@@ -6,7 +6,7 @@ const BookProfile = () => {
     {
       name: "Bhagavad Gita",
       img: "/images/Books/BhagavadGita.webp",
-      link: "HarryPotter1",
+      link: "BhagavadGita",
     },
     { name: "Ramayana", img: "/images/Books/Ramayana.jpg" },
     { name: "Mahabharat", img: "/images/Books/Mahabharat.jpg" },
