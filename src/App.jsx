@@ -3,6 +3,7 @@ import BookProfile from './MyComponents/BookProfile'
 import './App.css'
 import { Routes, Route} from 'react-router-dom';
 import HarryPotter1 from './MyComponents/Books/HarryPotter1';
+import BhagavadGita from './MyComponents/Books/BhagavadGita';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
         <Route path="/" element={<Home />}/>
         <Route path="/BookProfile" element={<BookProfile />}/>
         <Route path="/HarryPotter1" element={<HarryPotter1 />} />
+        <Route path="/BhagavadGita" element={<BhagavadGita />} />
         {/* <Route path="" element={<Profile />}/> */}
         {/* <Route path="" element={<Toggle />}/> */}
         {/* <Route path="" element={<Logout />}/> */}
