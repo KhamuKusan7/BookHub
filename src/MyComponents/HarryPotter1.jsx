@@ -7,7 +7,7 @@ const HarryPotter1 = () => {
         <img
           src="/images/Books/HarryPotter1.jpg"
           alt="Harry Potter and the Philosopher's Stone"
-          className="w-full h-120"
+          className="w-full h-120 rounded-sm"
         />
           <div className="flex items-center">
             <span>Rating:</span>
