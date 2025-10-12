@@ -11,6 +11,10 @@ const BookProfile = () => {
     { name: "Ramayana", img: "/images/Books/Ramayana.jpg" },
     { name: "Mahabharat", img: "/images/Books/Mahabharat.jpg" },
     {
+      name: "The Pursuit of Happyness",
+      img: "/images/Books/PursuitOfHappyness.jpg",
+    },
+    {
       name: "Harry Potter and the Philosopher's Stone",
       img: "/images/Books/HarryPotter1.jpg",
       link: "HarryPotter1",
@@ -56,6 +60,10 @@ const BookProfile = () => {
     { name: "Rich Dad Poor Dad", img: "/images/Books/RichDadPoorDad.jpg" },
     { name: "Shireesh ko Phool", img: "/images/Books/Shireesh-ko-Phool.webp" },
     { name: "The Great Gatsby", img: "/images/Books/GreatGatsby.jpg" },
+    {
+      name: "Alex Ferguson: My Autobiography",
+      img: "/images/Books/AlexFerguson.jpg",
+    },
   ];
   return (
     <div className="min-h-screen bg-gray-50 px-6 py-10">
