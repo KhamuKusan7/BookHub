@@ -2,7 +2,7 @@ import Home from './MyComponents/Home';
 import BookProfile from './MyComponents/BookProfile'
 import './App.css'
 import { Routes, Route} from 'react-router-dom';
-import HarryPotter1 from './MyComponents/HarryPotter1';
+import HarryPotter1 from './MyComponents/Books/HarryPotter1';
 
 function App() {
   return (
