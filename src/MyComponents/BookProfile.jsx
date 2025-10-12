@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const BookProfile = () => {
   const BookCover = [
@@ -71,8 +72,9 @@ const BookProfile = () => {
       </div>
 
       {/* Book Grid */}
-      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-8 place-items-center bg-[url(/images/Books/Harry_bg.png)] bg-cover bg-center">
+      <div className=" max-w-6xl mx-auto grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-x-4 gap-y-8 place-items-center">
         {BookCover.map((b) => (
+          <Link to={`/${b.link}`}>
             <div
               key={b.name}
               className="w-48 flex flex-col items-center text-center hover:scale-105 transition-transform"
@@ -80,10 +82,11 @@ const BookProfile = () => {
               <img
                 src={b.img}
                 alt={b.name}
-                className="rounded-lg shadow-md object-cover w-full h-64"
+                className="rounded-lg shadow-md object-cover w-full h-75"
               />
               <span className="mt-3 font-serif text-gray-700">{b.name}</span>
             </div>
+          </Link>
         ))}
       </div>
     </div>
