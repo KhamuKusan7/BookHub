@@ -1,26 +1,16 @@
-import Home from './MyComponents/Home';
-import BookProfile from './MyComponents/BookProfile'
-import './App.css'
-import { Routes, Route} from 'react-router-dom';
-import HarryPotter1 from './MyComponents/Books/HarryPotter1';
-import BhagavadGita from './MyComponents/Books/BhagavadGita';
-import Ramayana from './MyComponents/Books/Ramayana';
+import { Routes, Route } from "react-router-dom";
+import BookDetail from "./MyComponents/BookDetail";
+import BookProfile from "./MyComponents/BookProfile";
+import Home from "./MyComponents/Home";
 
 function App() {
   return (
-    <div>
-      <Routes>
-        <Route path="/" element={<Home />}/>
-        <Route path="/BookProfile" element={<BookProfile />}/>
-        <Route path="/HarryPotter1" element={<HarryPotter1 />} />
-        <Route path="/BhagavadGita" element={<BhagavadGita />} />
-        <Route path="/Ramayana" element={<Ramayana />} />
-        {/* <Route path="" element={<Profile />}/> */}
-        {/* <Route path="" element={<Toggle />}/> */}
-        {/* <Route path="" element={<Logout />}/> */}
-      </Routes>
-    </div>
-  )
+    <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/BookProfile" element={<BookProfile />} />
+      <Route path="/book/:id" element={<BookDetail />} />
+    </Routes>
+  );
 }
 
-export default App
+export default App;
