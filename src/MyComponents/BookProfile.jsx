@@ -8,7 +8,7 @@ const BookProfile = () => {
       img: "/images/Books/BhagavadGita.webp",
       link: "BhagavadGita",
     },
-    { name: "Ramayana", img: "/images/Books/Ramayana.jpg" },
+    { name: "Ramayana", img: "/images/Books/Ramayana.jpg",link:"Ramayana"},
     { name: "Mahabharat", img: "/images/Books/Mahabharat.jpg" },
     {
       name: "The Pursuit of Happyness",
