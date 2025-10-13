@@ -1,0 +1,191 @@
+[
+  {
+    "id": "bhagavad-gita",
+    "name": "Bhagavad Gita",
+    "author": "A.C. Bhaktivedanta Swami Prabhupada",
+    "img": "/images/Books/BhagavadGita.webp",
+    "rating": 4.0,
+    "genre": "Spiritual, Philosophy, Religious, Self-Help, Classic Literature",
+    "description": "Bhagavad Gita As It Is presents the divine conversation between Lord Krishna and Arjuna on the battlefield of Kurukshetra. It teaches timeless wisdom about duty, devotion, and the nature of the soul."
+  },
+  {
+    "id": "ramayana",
+    "name": "Ramayana",
+    "author": "Valmiki",
+    "img": "/images/Books/Ramayana.jpg",
+    "rating": 4.5,
+    "genre": "Epic, Mythology, Religious, Classic",
+    "description": "The Ramayana tells the story of Lord Rama, his exile, and the victory of good over evil."
+  },
+  {
+    "id": "mahabharat",
+    "name": "Mahabharat",
+    "author": "Vyasa",
+    "img": "/images/Books/Mahabharat.jpg",
+    "rating": 4.7,
+    "genre": "Epic, Mythology, Philosophy, Classic",
+    "description": "The Mahabharata depicts the Kurukshetra war and explores complex moral dilemmas, duty, and dharma."
+  },
+  {
+    "id": "pursuit-of-happyness",
+    "name": "The Pursuit of Happyness",
+    "author": "Chris Gardner",
+    "img": "/images/Books/PursuitOfHappyness.jpg",
+    "rating": 4.3,
+    "genre": "Biography, Motivation, Non-fiction",
+    "description": "The story of Chris Gardner's struggle with homelessness while raising his son and pursuing a better life."
+  },
+  {
+    "id": "harry-potter-1",
+    "name": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "img": "/images/Books/HarryPotter1.jpg",
+    "rating": 4.0,
+    "genre": "Fantasy, Fiction, Magic Adventure, Coming-of-Age",
+    "description": "A young boy discovers he's a wizard and attends Hogwarts, uncovering secrets about his past."
+  },
+  {
+    "id": "harry-potter-2",
+    "name": "Harry Potter and the Chamber of Secrets",
+    "author": "J.K. Rowling",
+    "img": "/images/Books/HarryPotter2.jpg",
+    "rating": 4.1,
+    "genre": "Fantasy, Adventure, Magic",
+    "description": "Harry returns to Hogwarts and discovers a hidden chamber that holds a deadly secret."
+  },
+  {
+    "id": "harry-potter-3",
+    "name": "Harry Potter and the Prisoner of Azkaban",
+    "author": "J.K. Rowling",
+    "img": "/images/Books/HarryPotter3.jpg",
+    "rating": 4.2,
+    "genre": "Fantasy, Adventure, Magic",
+    "description": "Harry learns the truth about Sirius Black, a mysterious prisoner with ties to his family."
+  },
+  {
+    "id": "harry-potter-4",
+    "name": "Harry Potter and the Goblet of Fire",
+    "author": "J.K. Rowling",
+    "img": "/images/Books/HarryPotter4.jpg",
+    "rating": 4.3,
+    "genre": "Fantasy, Adventure, Magic Tournament",
+    "description": "Harry faces deadly challenges in the Triwizard Tournament while a dark power rises."
+  },
+  {
+    "id": "harry-potter-5",
+    "name": "Harry Potter and the Order of the Phoenix",
+    "author": "J.K. Rowling",
+    "img": "/images/Books/HarryPotter5.jpg",
+    "rating": 4.2,
+    "genre": "Fantasy, Magic, Rebellion",
+    "description": "Harry forms Dumbledore's Army to fight the growing darkness within the wizarding world."
+  },
+  {
+    "id": "harry-potter-6",
+    "name": "Harry Potter and the Half-Blood Prince",
+    "author": "J.K. Rowling",
+    "img": "/images/Books/HarryPotter6.jpg",
+    "rating": 4.3,
+    "genre": "Fantasy, Mystery, Magic",
+    "description": "Harry uncovers Voldemort's past and learns about Horcruxes in this darker chapter."
+  },
+  {
+    "id": "harry-potter-7-1",
+    "name": "Harry Potter and the Deathly Hallows: Part 1",
+    "author": "J.K. Rowling",
+    "img": "/images/Books/HarryPotter7.jpg",
+    "rating": 4.4,
+    "genre": "Fantasy, Adventure, Magic",
+    "description": "Harry, Ron, and Hermione go on the run to find and destroy Voldemort's Horcruxes."
+  },
+  {
+    "id": "harry-potter-7-2",
+    "name": "Harry Potter and the Deathly Hallows: Part 2",
+    "author": "J.K. Rowling",
+    "img": "/images/Books/HarryPotter8.jpg",
+    "rating": 4.5,
+    "genre": "Fantasy, War, Magic",
+    "description": "The epic final battle between good and evil unfolds at Hogwarts."
+  },
+  {
+    "id": "lord-of-the-rings",
+    "name": "The Lord of The Rings",
+    "author": "J.R.R. Tolkien",
+    "img": "/images/Books/TheLordOfTheRings.jpg",
+    "rating": 4.9,
+    "genre": "Fantasy, Adventure, Epic, Classic",
+    "description": "A fellowship embarks on a perilous journey to destroy the One Ring and defeat Sauron."
+  },
+  {
+    "id": "chronicles-of-narnia",
+    "name": "The Chronicles of Narnia",
+    "author": "C.S. Lewis",
+    "img": "/images/Books/ChroniclesofNarnia.jpg",
+    "rating": 4.6,
+    "genre": "Fantasy, Adventure, Children's Classic",
+    "description": "A magical wardrobe transports children into the mythical land of Narnia ruled by Aslan."
+  },
+  {
+    "id":"percy-jackson",
+    "name":"The Last Olympian",
+    "author":"Rick Riordan",
+    "img":"/images/Books/PercyJackson.jpg",
+    "rating":4.55,
+    "genre":"Fantasy, Mythology, Greek Mythology, Fiction",
+    "description": "In the thrilling conclusion of the Percy Jackson and the Olympians series, Percy leads his friends in a desperate battle to defend Mount Olympus from the forces of Kronos. As New York City becomes the final battleground, Percy must face his destiny and make a choice that could change the fate of the gods and mortals forever."
+  },
+  {
+    "id": "ek-chihan",
+    "name": "एक चिहान (Ek Chihan)",
+    "author": "Bishweshwar Prasad Koirala",
+    "img": "/images/Books/ekChihan.jpg",
+    "rating": 4.1,
+    "genre": "Nepali Literature, Fiction, Political",
+    "description": "A Nepali classic exploring themes of human struggle, politics, and morality."
+  },
+  {
+    "id": "muna-madan",
+    "name": "मुनामदन (Muna Madan)",
+    "author": "Laxmi Prasad Devkota",
+    "img": "/images/Books/MunaMadan.jpg",
+    "rating": 4.8,
+    "genre": "Poetry, Nepali Literature, Classic",
+    "description": "A poetic tale of love, loss, and humanity told through the story of Muna and Madan."
+  },
+  {
+    "id": "rich-dad-poor-dad",
+    "name": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "img": "/images/Books/RichDadPoorDad.jpg",
+    "rating": 4.2,
+    "genre": "Finance, Self-help, Motivation",
+    "description": "A personal finance classic that contrasts two approaches to money, success, and independence."
+  },
+  {
+    "id": "shireesh-ko-phool",
+    "name": "Shireesh ko Phool",
+    "author": "Parijat",
+    "img": "/images/Books/Shireesh-ko-Phool.webp",
+    "rating": 4.4,
+    "genre": "Nepali Literature, Psychological Fiction",
+    "description": "A deeply emotional Nepali novel exploring love, pain, and the complexities of human emotion."
+  },
+  {
+    "id": "great-gatsby",
+    "name": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "img": "/images/Books/GreatGatsby.jpg",
+    "rating": 4.3,
+    "genre": "Classic, Fiction, Tragedy, Romance",
+    "description": "A tragic story of wealth, love, and obsession set in the Jazz Age of America."
+  },
+  {
+    "id": "alex-ferguson",
+    "name": "Alex Ferguson: My Autobiography",
+    "author": "Sir Alex Ferguson",
+    "img": "/images/Books/AlexFerguson.jpg",
+    "rating": 4.6,
+    "genre": "Biography, Sports, Leadership",
+    "description": "The inspiring life story of football's most successful manager, sharing lessons from his career."
+  }
+]
