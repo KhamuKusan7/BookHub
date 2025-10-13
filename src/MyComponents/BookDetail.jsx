@@ -29,6 +29,29 @@ const BookDetail = () => {
     return <div className=" text-center py-20 text-gray-500">Book not found.</div>;
   }
 
+  const renderStars = (rating) => {
+    const fullStar = Math.floor(rating);
+    const halfStar = rating % 1 >= 0.5;
+    const emptyStar = 5 - fullStar - (halfStar ? 1 : 0);
+
+    return(
+        <>
+        {/* For full star */}
+        {Array(fullStar).fill().map((_,i) =>(
+            <i key={`full-${i}`} className=" fa fa-star text-yellow-400"></i>
+        ))}
+        {/* For half star */}
+        {halfStar && (
+            <i key="half" className=" fa fa-star-half-o text-yellow-400"></i>
+        )}
+        {/* For empty star */}
+        {Array(emptyStar).fill().map((_,i) => (
+            <i key={`empty-${i}`} className="fa fa-star-o text-yellow-400"></i>
+        ))}
+        </>
+    )
+  }
+
   return (
     <div className=" grid grid-cols-1 md:grid-cols-2 max-w-6xl mx-auto my-12 px-6 gap-8 place-items-center">
       {/* Left Side --> Image + Rating */}
@@ -40,6 +63,7 @@ const BookDetail = () => {
         />
         <div className=" flex items-center mt-3">
           <span className=" mr-2 text-gray-700">Rating:</span>
+          {renderStars(book.rating)}
           <span className=" ml-2 text-gray-600 text-sm">({book.rating.toFixed(1)})</span>
         </div>
       </div>
