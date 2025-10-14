@@ -214,5 +214,23 @@
     "rating": 4.20,
     "genre": "Dystopian Fiction, Political Fiction, Classic Literature",
     "description": "1984 by George Orwell, with a foreword by Thomas Pynchon, is a gripping dystopian novel set in a totalitarian world ruled by Big Brother. It follows Winston Smith, a man who dares to question a regime that controls every thought, word, and memory. Orwell masterfully portrays the dangers of surveillance, propaganda, and loss of freedom. Chilling, thought-provoking, and timeless, 1984 is a must-read that makes you question the true meaning of truth and freedom"
+  },
+  {
+    "img": "/images/Books/AtomicHabits.jpg",
+    "id": "atomic-habits",
+    "name": "Atomic Habits",
+    "author": "James Clear",
+    "rating": 4.33,
+    "genre" : "Self-Help, Personal Development, Psychology, Productivity",
+    "description": "Atomic Habits by James Clear is a transformative guide that shows how small, consistent changes can lead to remarkable results. Clear explains the science behind habit formation and offers practical strategies to build good habits, break bad ones, and master the tiny behaviors that lead to success. Packed with real-life examples and actionable advice, this book empowers you to reshape your identity and take control of your personal and professional growth."
+  },
+  {
+    "img": "/images/Books/TheLawsOfHumanNature.jpg",
+    "id": "Laws-of-human-nature",
+    "name": "The Laws of Human Nature",
+    "author": "Robert Greene",
+    "rating": 4.35,
+    "genre" : "Psychology, Self-Help, Philosophy, Personal Development",
+    "description": "The Laws of Human Nature by Robert Greene is a profound exploration of what truly drives people’s behavior. Greene uncovers the hidden motivations, emotions, and social forces that shape human actions, helping readers understand themselves and others on a deeper level. Through historical examples and psychological insights, the book teaches how to master self-awareness, influence others, and navigate complex social dynamics with wisdom."
   }
 ]
