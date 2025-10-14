@@ -187,5 +187,32 @@
     "rating": 4.6,
     "genre": "Biography, Sports, Leadership",
     "description": "The inspiring life story of football's most successful manager, sharing lessons from his career."
+  },
+  {
+    "id": "lolita",
+    "name": "Lolita",
+    "author": "Vladimir Nabokov",
+    "img": "/images/Books/Lolita.jpg",
+    "rating": 3.87,
+    "genre": "Psychological Fiction, Literary Classic, Tragic Romance",
+    "description": "Lolita by Vladimir Nabokov is a mesmerizing masterpiece that blends beauty, obsession, and tragedy into one unforgettable story. Through the eyes of Humbert Humbert, a charming yet deeply flawed narrator, readers are drawn into a world of forbidden love and emotional turmoil. Nabokov's poetic writing, dark humor, and intricate storytelling make every page both unsettling and captivating. It's a book that challenges your emotions and lingers in your mind long after the last line."
+  },
+  {
+    "id": "don-quixote",
+    "name": "Don Quixote",
+    "author": "Miguel de Cervantes",
+    "img": "/images/Books/DonQuixote.jpg",
+    "rating": 4.87,
+    "genre": "Classic Literature, Adventure, Sattire, Comedy",
+    "description": "Don Quixote, or The Ingenious Gentleman Don Quixote of La Mancha, by Miguel de Cervantes, is one of the greatest works in world literature. It tells the story of a nobleman who, inspired by tales of chivalry, sets out on a quest to revive knighthood with his loyal squire, Sancho Panza. Their adventures are filled with humor, wisdom, and a touching exploration of dreams versus reality. This timeless classic celebrates imagination, courage, and the beauty of believing in one's ideals—even against all odds."
+  },
+  {
+    "id":"1984",
+    "name": "1984",
+    "author": "George Orwell, Thomas Pinchon (Foreword)",
+    "img": "/images/Books/1984.jpg",
+    "rating": 4.20,
+    "genre": "Dystopian Fiction, Political Fiction, Classic Literature",
+    "description": "1984 by George Orwell, with a foreword by Thomas Pynchon, is a gripping dystopian novel set in a totalitarian world ruled by Big Brother. It follows Winston Smith, a man who dares to question a regime that controls every thought, word, and memory. Orwell masterfully portrays the dangers of surveillance, propaganda, and loss of freedom. Chilling, thought-provoking, and timeless, 1984 is a must-read that makes you question the true meaning of truth and freedom"
   }
 ]
