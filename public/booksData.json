@@ -1,12 +1,12 @@
 [
   {
-    "id": "bhagavad-gita",
-    "name": "Bhagavad Gita",
+    "id": "bhagavad-gita-as-it-is",
+    "name": "Bhagavad Gita As It Is",
     "author": "A.C. Bhaktivedanta Swami Prabhupada",
     "img": "/images/Books/BhagavadGita.webp",
-    "rating": 4.0,
+    "rating": 4.5,
     "genre": "Spiritual, Philosophy, Religious, Self-Help, Classic Literature",
-    "description": "Bhagavad Gita As It Is presents the divine conversation between Lord Krishna and Arjuna on the battlefield of Kurukshetra. It teaches timeless wisdom about duty, devotion, and the nature of the soul."
+    "description": "Bhagavad Gita As It Is by A.C. Bhaktivedanta Swami Prabhupada presents the timeless divine conversation between Lord Krishna and Arjuna on the battlefield of Kurukshetra. Through clear translations and insightful commentary, Prabhupada explains the profound teachings of the Gita on duty, devotion, and the path to self-realization. This edition emphasizes understanding the Gita “as it is,” without interpretation, guiding readers toward spiritual clarity and inner peace."
   },
   {
     "id": "ramayana",
@@ -15,7 +15,7 @@
     "img": "/images/Books/Ramayana.jpg",
     "rating": 4.5,
     "genre": "Epic, Mythology, Religious, Classic",
-    "description": "The Ramayana tells the story of Lord Rama, his exile, and the victory of good over evil."
+    "description": "Ramayan by Maharshi Valmiki is one of the greatest ancient epics of India, narrating the divine journey of Lord Rama, an incarnation of Vishnu. It follows his exile, the abduction of his wife Sita by Ravana, and the epic battle to restore dharma and righteousness. Filled with devotion, heroism, and moral lessons, the Ramayan beautifully portrays the victory of good over evil and the ideals of love, duty, and honor."
   },
   {
     "id": "mahabharat",
@@ -24,7 +24,7 @@
     "img": "/images/Books/Mahabharat.jpg",
     "rating": 4.7,
     "genre": "Epic, Mythology, Philosophy, Classic",
-    "description": "The Mahabharata depicts the Kurukshetra war and explores complex moral dilemmas, duty, and dharma."
+    "description": "Mahabharat by Maharshi Vyasa is one of the longest and most profound epics in world literature. It tells the story of the great Kurukshetra war between the Pandavas and Kauravas, exploring themes of duty, justice, truth, and destiny. Within its verses lies the Bhagavad Gita, a timeless guide to life and spirituality. The Mahabharat reveals the complexity of human nature and the eternal struggle between righteousness and ambition."
   },
   {
     "id": "pursuit-of-happyness",
@@ -141,7 +141,7 @@
     "img": "/images/Books/ekChihan.jpg",
     "rating": 4.1,
     "genre": "Nepali Literature, Fiction, Political",
-    "description": "A Nepali classic exploring themes of human struggle, politics, and morality."
+    "description": "A Nepali classic exploring themes of human struggle, politics, and morality. Through simple yet profound storytelling, Koirala explores themes of love, guilt, and the psychological struggles within the human mind. The story reflects his mastery of blending realism with deep philosophical insight, making it one of the finest works in Nepali literature."
   },
   {
     "id": "muna-madan",
@@ -150,7 +150,7 @@
     "img": "/images/Books/MunaMadan.jpg",
     "rating": 4.8,
     "genre": "Poetry, Nepali Literature, Classic",
-    "description": "A poetic tale of love, loss, and humanity told through the story of Muna and Madan."
+    "description": "Muna Madan by Laxmi Prasad Devkota is one of the most celebrated epics in Nepali literature, written in lyrical verse. It tells the tragic love story of Muna and Madan, depicting the pain of separation, the harsh realities of life, and the value of humanity over wealth. Through its emotional depth and poetic beauty, the work highlights Devkota's message that true greatness lies in compassion and love for others."
   },
   {
     "id": "rich-dad-poor-dad",
@@ -159,7 +159,7 @@
     "img": "/images/Books/RichDadPoorDad.jpg",
     "rating": 4.2,
     "genre": "Finance, Self-help, Motivation",
-    "description": "A personal finance classic that contrasts two approaches to money, success, and independence."
+    "description": "Rich Dad Poor Dad by Robert T. Kiyosaki is a life-changing personal finance book that challenges traditional views about money and success. Through the contrast between his “rich dad” and “poor dad,” Kiyosaki shares lessons on financial independence, investing, and building wealth through smart decisions. It teaches how to make money work for you, not the other way around, inspiring readers to think differently about income, assets, and opportunities."
   },
   {
     "id": "shireesh-ko-phool",
@@ -232,5 +232,32 @@
     "rating": 4.35,
     "genre" : "Psychology, Self-Help, Philosophy, Personal Development",
     "description": "The Laws of Human Nature by Robert Greene is a profound exploration of what truly drives people’s behavior. Greene uncovers the hidden motivations, emotions, and social forces that shape human actions, helping readers understand themselves and others on a deeper level. Through historical examples and psychological insights, the book teaches how to master self-awareness, influence others, and navigate complex social dynamics with wisdom."
+  },
+  {
+    "img": "/images/Books/Power.png",
+    "id": "The-48-Laws-of-Power",
+    "name": "The 48 Laws of Power",
+    "author": "Robert Greene",
+    "rating": 4.09,
+    "genre": "Self-Help, Strategy, Psychology, Leadership, Philosophy",
+    "description": "The 48 Laws of Power by Robert Greene is a timeless manual on understanding power dynamics and achieving influence in any situation. Drawing from the lives of historical figures like Machiavelli, Sun Tzu, and Napoleon, Greene presents 48 principles for gaining, defending, and mastering power. Each law is filled with real-life lessons, psychological insights, and strategies to help you navigate competition and human behavior effectively."
+  },
+  {
+    "img": "/images/Books/Mastery.png",
+    "id": "Mastery",
+    "name": "Mastery",
+    "author": "Robert Greene",
+    "rating": 4.0,
+    "genre": "Self-Help, Psychology, Personal Growth, Leadership",
+    "description":"Mastery by Robert Greene is a powerful guide to unlocking your highest potential by learning from the world's greatest masters. Through stories of figures like Leonardo da Vinci, Charles Darwin, and modern innovators, Greene reveals how dedication, practice, and intuition lead to true excellence. The book shows that mastery isn't about talent—it's about persistence, passion, and lifelong learning. It inspires readers to find their life's calling and rise above mediocrity"
+  },
+  {
+    "img": "/images/Books/Psychology_of_Money.jpg",
+    "id": "Psychology-of-Money",
+    "name": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "rating": 4.2,
+    "genre": "Finance, Psychology, Personal Development, Self-Help",
+    "description": "The Psychology of Money by Morgan Housel explores how our thoughts, emotions, and behaviors shape the way we handle money. Instead of focusing on complex formulas, Housel shares timeless stories and insights about luck, risk, and human behavior in financial decisions. The book reveals that managing money is less about what you know and more about how you behave. It's a must-read for anyone who wants to build lasting wealth and peace of mind."
   }
 ]
