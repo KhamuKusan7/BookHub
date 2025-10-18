@@ -259,5 +259,14 @@
     "rating": 4.2,
     "genre": "Finance, Psychology, Personal Development, Self-Help",
     "description": "The Psychology of Money by Morgan Housel explores how our thoughts, emotions, and behaviors shape the way we handle money. Instead of focusing on complex formulas, Housel shares timeless stories and insights about luck, risk, and human behavior in financial decisions. The book reveals that managing money is less about what you know and more about how you behave. It's a must-read for anyone who wants to build lasting wealth and peace of mind."
+  },
+  {
+    "img": "/images/BooksEatThatFrog/jpg",
+    "id": "Eat-that-frog",
+    "name": "Eat That Frog!",
+    "author": "Brian Tracy",
+    "rating": 3.8,
+    "genre": "Self-Help, Productivity, Personal Development, Motivation",
+    "description": "Eat That Frog! by Brian Tracy is a practical guide to overcoming procrastination and boosting productivity. Through 21 simple yet powerful techniques, Tracy teaches how to prioritize tasks, stay focused, and take immediate action toward your goals. The book's central idea—“eat that frog”—means tackling your biggest, most important task first to achieve lasting success. It's a must-read for anyone seeking motivation and effective time management."
   }
 ]
